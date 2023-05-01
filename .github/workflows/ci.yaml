@@ -45,5 +45,5 @@ jobs:
         application_name: sbbd
         environment_name: sbbd-dev
         version_label: ${{github.run_id}}
-        region: eu-west-2
+        region: us-west-2
         deployment_package: deploy.zip
